@@ -1,0 +1,9 @@
+{"version":"0.1.11","tag":"v0.1.11",
+  "artifacts": [
+    {"module":"catalex-service","os":"darwin","arch":"arm64","name":"catalex-service-0.1.11-darwin-arm64.tar.gz","sha256":"a3c0d547ca4dd79082d95d5d20515094c523f455ac6d70b6caf40df6ac860842","url":"https://downloads.catalex.co/v0.1.11/catalex-service-0.1.11-darwin-arm64.tar.gz"},
+    {"module":"catalex-web","os":"darwin","arch":"arm64","name":"catalex-web-0.1.11-darwin-arm64.tar.gz","sha256":"072b5d876ae86405face13f74753318f5613e2dbec473fe1015b041d8ee2937c","url":"https://downloads.catalex.co/v0.1.11/catalex-web-0.1.11-darwin-arm64.tar.gz"},
+    {"module":"catalex","os":"darwin","arch":"arm64","name":"catalex-0.1.11-darwin-arm64.tar.gz","sha256":"f03f818e275f5c44ac633e6dac493cbd34fb4fad4dc5b786eced5920f4d33dc9","url":"https://downloads.catalex.co/v0.1.11/catalex-0.1.11-darwin-arm64.tar.gz"},
+    {"module":"desktop","os":"darwin","arch":"arm64","name":"CatalEx-arm64.dmg","sha256":"aacb36d12e6fc7d0faeb6a49cd398106a28764c848714c87a10225d0109c10b6","url":"https://downloads.catalex.co/v0.1.11/CatalEx-arm64.dmg"}
+  ],
+  "images": []
+}

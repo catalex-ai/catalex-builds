@@ -1,0 +1,4 @@
+interface:
+  display_name: "CatalEx add-on"
+  short_description: "Install CatalEx and connect a package's agents to chat, Slack and WhatsApp"
+  default_prompt: "Use $catalex-agent-addon to make these agents reachable through CatalEx."
