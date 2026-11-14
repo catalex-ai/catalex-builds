@@ -1,0 +1,4 @@
+interface:
+  display_name: "CatalEx setup"
+  short_description: "Install catalex and set CatalEx up end to end"
+  default_prompt: "Use $catalex-setup to install CatalEx, connect it to CatalEx Cloud, and verify a chat reply."

@@ -1,0 +1,9 @@
+{"version":"0.1.10","tag":"v0.1.10",
+  "artifacts": [
+    {"module":"catalex-service","os":"darwin","arch":"arm64","name":"catalex-service-0.1.10-darwin-arm64.tar.gz","sha256":"9f25f00554bcb3ae3673616d1353c9fca3565f08a0efe3dcf491147d5cf48b6f","url":"https://github.com/catalex-ai/catalex-builds/releases/download/v0.1.10/catalex-service-0.1.10-darwin-arm64.tar.gz"},
+    {"module":"catalex-web","os":"darwin","arch":"arm64","name":"catalex-web-0.1.10-darwin-arm64.tar.gz","sha256":"14b390a8a9a54a992783b54a2ca95875335a36f00856097c7754aa23fa25d208","url":"https://github.com/catalex-ai/catalex-builds/releases/download/v0.1.10/catalex-web-0.1.10-darwin-arm64.tar.gz"},
+    {"module":"catalex","os":"darwin","arch":"arm64","name":"catalex-0.1.10-darwin-arm64.tar.gz","sha256":"f75bdfdfa6fa21f1f8b9d75caef459677c4989bb39399c23807da1ae37e695e2","url":"https://github.com/catalex-ai/catalex-builds/releases/download/v0.1.10/catalex-0.1.10-darwin-arm64.tar.gz"},
+    {"module":"desktop","os":"darwin","arch":"arm64","name":"CatalEx-arm64.dmg","sha256":"7ea5ab56cacd182cf43bf74a5e0d13f556a38ec468da928526eaca1b837ea959","url":"https://github.com/catalex-ai/catalex-builds/releases/download/v0.1.10/CatalEx-arm64.dmg"}
+  ],
+  "images": []
+}
