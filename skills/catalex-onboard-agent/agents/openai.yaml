@@ -1,0 +1,4 @@
+interface:
+  display_name: "CatalEx agent onboarding"
+  short_description: "Put this agent on CatalEx chats, Slack and WhatsApp"
+  default_prompt: "Use $catalex-onboard-agent to onboard this agent onto CatalEx and verify a chat reply."
